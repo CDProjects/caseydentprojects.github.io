@@ -1,0 +1,83 @@
+#wrapper {
+    margin-left: auto;
+    margin-right: auto;
+    width: 1140px;
+}
+
+body {
+    background: #000;
+    color: #fff;
+    padding: 25px;
+    font-family: Verdana,sans-serif; 
+}
+
+.nav {
+    position: fixed;
+    text-align: center;
+    width: 100%;
+}
+
+.nav-top li {
+    display: inline-block;
+    width: 130px;
+    font-weight: bold;
+    color: white;
+}
+
+a {
+    color: white;
+}
+
+a:visited {
+    text-decoration: none;
+    color: white;
+}
+
+a:hover {
+    text-decoration: none;
+    color: seagreen;
+}
+
+a:focus {
+    text-decoration: none;
+    color: white;
+}
+
+a:hover, a:active {
+    text-decoration: none;
+    color: seagreen;
+}
+
+img {
+    position: relative;
+    bottom: 33px;
+    width: 160px;
+    height: auto;
+    padding-top: 50px;
+}
+
+.club {
+    position: relative;
+    bottom: 74px;
+    display: inline-block;
+    padding-left: 10px;
+}
+
+h3 {
+    position: relative;
+    bottom: 10px;
+}
+
+.summary {
+    position: relative;
+    top: 150px;
+    width: 100%;
+    height: 363.6px;
+    margin: auto;
+}
+
+.weareshamrocks {
+    font-weight: 500;
+    font-style: normal;
+    font-size: 65px;
+}
